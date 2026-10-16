@@ -2,4 +2,9 @@
 venv/
 memory.json
 __pycache__/
-pyqs.txt
+pyqs/
+student_profile.json
+analysis_cache.json
+sample_paper.txt
+assignment.txt
+study_plan.txt
