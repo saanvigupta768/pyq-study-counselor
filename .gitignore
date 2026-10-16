@@ -1,0 +1,5 @@
+.env
+venv/
+memory.json
+__pycache__/
+pyqs.txt
